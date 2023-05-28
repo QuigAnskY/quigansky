@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Evgenii Kutlusurin
+- 🔭 I’m currently working at Gazprom Pererabotka LLC.
+- 🌱 I’m currently learning Data Analysis.
+
+### You can reach me via:
+[<img align="left" alt="ekutlusurin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="evgeniikutlusurin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="quigansky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **QuigAnskY/quigansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
