@@ -7,6 +7,11 @@
 [<img align="left" alt="evgeniikutlusurin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="quigansky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+[telegram]: https://t.me/ekutlusurin
+[linkedin]: https://www.linkedin.com/in/evgeniikutlusurin/
+[instagram]: https://www.instagram.com/quigansky/
 <!--
 **QuigAnskY/quigansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
