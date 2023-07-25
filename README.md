@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Evgenii Kutlusurin
-- 🔭 I’m currently working at Gazprom Pererabotka LLC.
+- 👯 I'm currently open to work.
+- 🔭 I used to work at Gazprom Pererabotka LLC.
 - 🌱 I’m currently learning Data Analysis.
 
 ### My study projects at Yandex Practicum:
