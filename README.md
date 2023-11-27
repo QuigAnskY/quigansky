@@ -3,6 +3,9 @@
 - 🔭 I used to work at Gazprom Pererabotka LLC.
 - 🌱 I’m currently learning Data Analysis.
 
+### Pet projects and freelance work:
+https://github.com/QuigAnskY/pet_projects
+
 ### My study projects at Yandex Practicum:
 https://github.com/QuigAnskY/yandex_practicum_da
 
